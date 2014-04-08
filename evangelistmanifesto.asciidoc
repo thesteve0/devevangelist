@@ -1,0 +1,92 @@
+= Developer Evangelists Manifesto
+
+Good Developer Evangelists are bridges – they can talk and share information 
+between multiple groups about a multitude of technologies. Internally they are a 
+bridge between support, product management, engineering, and 
+marketing teams. They are also a bridge between external developers and 
+internal management and engineering. We are connectors in the broad 
+sense of that word. 
+
+== Broad goals for our team
+
+* Brand awareness – we help drive awareness for our product(s) and establish our 
+company as a leader in Technology
+
+* Thought leaders in our own space - we each have an area of 
+specialization and help to promote our product as a place where thought 
+leaders work and that our opinion on a broad range of matters should be 
+trusted
+
+* Making developers successful on our product - we work with the product team 
+and external developers to help give external developers a sense of delight and 
+excitement in using  our product. 
+
+== How are Evangelists perceived in the community
+
+Just as a sales person gains trust from their customers by delivering the 
+software to them on time and with the capabilities they promised – 
+developer evangelists have to be trusted by the community they are 
+talking to. Their trust is based on technical knowledge, honest 
+assessment of the capabilities of their software, and being able to 
+relate to the workflow and ways in which developers think
+
+== Major attributes that make a good evangelist
+
+In order to be effective in their role they have to have some key 
+attributes and engage in a broad array of activities. It is important to
+ remember that no one evangelist will be excellent at all these skills 
+or activities but they need to be competent in all the areas and still 
+engage in all the activities.
+
+* Technical skills in working with code and technology. Without this they can 
+not talk credibly to external developers nor can they communicate 
+effectively with internal engineering
+ 
+* Ability to speak effectively in public – they have to be able to get on 
+stage, in front of a class, in front of customers, in a booth and convey
+ both the marketing and technical message of the product. They have to 
+be able to do it in a way that gets the developers excited about using 
+the product and clearly see the benefits.
+
+* They need to be able to write effectively – they will need to write 
+blog posts, respond to questions in forums, talk to users in IRC, write 
+email to the engineering team, and send reports to management.
+
+* They have to be generally curious about technology and enjoy teaching 
+it to others – they have to have a desire to seek out new tech and learn
+ it, but they also have to generally have a desire to teach it to others
+ rather than just use it for themselves. They need to be given time 
+to read blogs, twitter, talk to developers at shows, and other media 
+channels to keep up with trends in their field. They need to spend a 
+certain amount of time reading and contributing to social forums.
+
+== What do Evangelists do
+
+In order to be effective in their role an evangelist has to engage in a 
+broad array of activities. Some may be specialists in one of these areas
+ but that does not mean they don’t have to be at least competent in all 
+of these areas. Note this list is not in priority order since all of 
+these activities are essential to be a good developer evangelist:
+
+* They need to get in front of developers – speaking at shows, attending 
+shows, working at hackathons, talking or teaching at meetups
+
+* They need to be involved in some of the product management feedback, 
+especially regarding roadmap issues so they can effectively communicate 
+the product intention and direction to external developers
+
+* They need to be able to spend time talking to product engineers so they
+can effectively understand how the technology is supposed to work and 
+give feedback so the engineers can understand how developers will use 
+their product.
+
+* They need to spend time learning and using new technology, both in sample 
+applications and real applications – this is the only way for them to be able 
+to speak with authority both at shows and in written form
+
+* They need to spend some time teaching external developers how to use 
+the products. They should also take the feedback learned in those 
+classes back to the engineering team
+
+* They need to write blog content to help communicate their knowledge and 
+interesting features for the platform.
