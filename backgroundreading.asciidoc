@@ -1,0 +1,17 @@
+= Good reading for Evangelists
+
+== Specific about Dev Evangelism/Advocacy
+
+https://github.com/codepo8[Christian Heilmann]'s http://developer-evangelism.com/index.php[book] 
+
+http://compositecode.com/about/[Adron Hall]'s http://compositecode.com/2014/01/21/9-ways-to-survive-the-shit-storm-of-developer-evangelism/[blog post]
+
+The NextWeb http://thenextweb.com/dd/2012/06/03/a-day-in-the-life-of-a-developer-evangelist/[interviews some evangelists]
+
+http://caseysoftware.com/blog/author/keith-casey[Keith Casey], a former Twillio Evangelist, writes a http://caseysoftware.com/blog/developer-evangelism-the-whole-story[blog post] with his take on the field
+
+== Other Good Material to Sharpen your craft
+
+http://shop.oreilly.com/product/9780596802004.do[Confessions of a Public Speaker]
+
+https://www.youtube.com/watch?v=OKY6BGcx37k[Talking Funny] - a video with Chris Rock, Louis CK, Ricky Gervais, and Jerry Seinfeld talking about their different approaches to doing comedy and how they approach their craft. 
