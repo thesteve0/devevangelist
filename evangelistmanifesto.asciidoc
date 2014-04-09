@@ -7,6 +7,14 @@ marketing teams. They are also a bridge between external developers and
 internal management and engineering. We are connectors in the broad 
 sense of that word. 
 
+==== Other terms
+
+The role definition for Developer Evangelist can be a complex one, and overlaps
+significantly with other similar roles, which may have titles such as:
+
+* Developer Advocate
+* Developer Experience Engineer
+
 == Broad goals for our team
 
 * Brand awareness – we help drive awareness for our product(s) and establish our 
