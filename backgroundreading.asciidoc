@@ -1,6 +1,6 @@
-= Good reading for Evangelists
+= Good Resources for Evangelists
 
-== Specific about Dev Evangelism/Advocacy
+== Specific about Dev. Evangelism/Advocacy
 
 https://github.com/codepo8[Christian Heilmann]'s http://developer-evangelism.com/index.php[book] 
 
@@ -10,7 +10,7 @@ The NextWeb http://thenextweb.com/dd/2012/06/03/a-day-in-the-life-of-a-developer
 
 http://caseysoftware.com/blog/author/keith-casey[Keith Casey], a former Twillio Evangelist, writes a http://caseysoftware.com/blog/developer-evangelism-the-whole-story[blog post] with his take on the field
 
-== Other Good Material to Sharpen your craft
+== Other Good Material to Sharpen your Craft
 
 http://shop.oreilly.com/product/9780596802004.do[Confessions of a Public Speaker]
 
