@@ -13,7 +13,10 @@ The role definition for Developer Evangelist can be a complex one, and overlaps
 significantly with other similar roles, which may have titles such as:
 
 * Developer Advocate
+* Platform Evangelist
 * Technical Evangelist
+* Developer Relations
+* API Evangelist
 * Developer Experience Engineer
 
 == Broad goals for our team
