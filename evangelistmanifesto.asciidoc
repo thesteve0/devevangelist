@@ -1,6 +1,6 @@
-= Developer Evangelists Manifesto
+= Developer Evangelists  Manifesto
 
-Good Developer Evangelists are bridges – they can talk and share information 
+Good Developer Evangelists (or Developer Advocates) are bridges – they can talk and share information 
 between multiple groups about a multitude of technologies. Internally they are a 
 bridge between support, product management, engineering, and 
 marketing teams. They are also a bridge between external developers and 
@@ -19,28 +19,8 @@ significantly with other similar roles, which may have titles such as:
 * API Evangelist
 * Developer Experience Engineer
 
-== Broad goals for our team
-
-* Brand awareness – we help drive awareness for our product(s) and establish our 
-company as a leader in Technology
-
-* Thought leaders in our own space - we each have an area of 
-specialization and help to promote our product as a place where thought 
-leaders work and that our opinion on a broad range of matters should be 
-trusted
-
-* Making developers successful on our product - we work with the product team 
-and external developers to help give external developers a sense of delight and 
-excitement in using  our product. 
-
-== How are Evangelists perceived in the community
-
-Just as a sales person gains trust from their customers by delivering the 
-software to them on time and with the capabilities they promised – 
-developer evangelists have to be trusted by the community they are 
-talking to. Their trust is based on technical knowledge, honest 
-assessment of the capabilities of their software, and being able to 
-relate to the workflow and ways in which developers think
+The important part that ties all these together is the type of skills needed 
+and the focus of the job responsibilities. 
 
 == Major attributes that make a good evangelist
 
@@ -52,7 +32,8 @@ engage in all the activities.
 
 * Technical skills in working with code and technology. Without this they can 
 not talk credibly to external developers nor can they communicate 
-effectively with internal engineering
+effectively with internal engineering. They must be able to write more code 
+than a "Hello World" application. 
  
 * Ability to speak effectively in public – they have to be able to get on 
 stage, in front of a class, in front of customers, in a booth and convey
@@ -107,3 +88,28 @@ classes back to the engineering team
 
 * They need to write blog content to help communicate their knowledge and 
 interesting features for the platform.
+
+
+== Broad goals for Evangelists
+
+* Brand awareness – we help drive awareness for our product(s) and establish our 
+company as a leader in Technology
+
+* Thought leaders in our own space - we each have an area of 
+specialization and help to promote our product as a place where thought 
+leaders work and that our opinion on a broad range of matters should be 
+trusted
+
+* Making developers successful on our product - we work with the product team 
+and external developers to help give external developers a sense of delight and 
+excitement in using  our product. 
+
+== How are Evangelists perceived in the community
+
+Just as a sales person gains trust from their customers by delivering the 
+software to them on time and with the capabilities they promised – 
+developer evangelists have to be trusted by the community they are 
+talking to. Their trust is based on technical knowledge, honest 
+assessment of the capabilities of their software, and being able to 
+relate to the workflow and ways in which developers think
+
