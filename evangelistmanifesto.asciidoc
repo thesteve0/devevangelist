@@ -87,6 +87,11 @@ shows, working at hackathons, talking or teaching at meetups
 especially regarding roadmap issues so they can effectively communicate 
 the product intention and direction to external developers
 
+* They need to be key stakeholders in the specification and development of
+developer-targeted features; as the main point of contact with developer
+users outside the organisation, their feedback should enhance the feature
+in order to meet those external developer's requirements
+
 * They need to be able to spend time talking to product engineers so they
 can effectively understand how the technology is supposed to work and 
 give feedback so the engineers can understand how developers will use 
