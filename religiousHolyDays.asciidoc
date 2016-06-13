@@ -1,0 +1,46 @@
+= Major religious holidays to avoid for your events:
+
+Here are the major religious holidays you need to be aware of when planning events. The list covers holy days where 
+
+* Work is prohibited (or most people observing consider it a day to be with family)
+
+AND
+
+* Followed by most of it's adherents
+
+"Most" is a tricky term and is definitely geography dependent. If you live in a Christian majority country - the holy days below 
+are like Christmas or Easter. Before you schedule an event during these days think if you would schedule the same event during
+Christmas or Easter. 
+
+If you edit a category below please:
+
+1. Try define most, especially with regards to important geographies. 
+2. Please try to give the rough time of year so people can know when to look for the holy day on the calendar. 
+3. Try to give the length of the holy day (start time and end time). 
+4. If you know there is popular misconception of the importance certain days please note those days as well.
+
+
+== Christianity
+
+== Islam
+
+== Buddhisim
+
+== Hinduism
+
+== Judaism
+
+[options="header"]
+|======================
+|Name(s) |Season | Length |Start and End Time | Notes
+|Passover (Pesach) |Spring |8 days |Sundown the night before until Sundown of the 8th day | a lot of dietary restrictions
+|Rosh Hashanah |Autumn| 2 days| Sundown the night before until Sundown of the 2nd day| This is the New Year and the beginning of the Week of Awe, ending with Yom Kippur
+|Yom Kippur |Autumn| 1 day| Sundown the night before until Sundown the night after| This is a day of fasting and it usually concludes with a festive meal, so most people won't travel until the next day
+|======================
+
+* It is not forbidden to work on Hanukah and it lasts for 8 days. If you want to schedule something during
+this time it would be best to just avoid having people miss the first night. 
+
+If you are planning an event in Israel this list will not work. There are many observant Jews in Israel and you should
+consult a local observant Jew about dates. Please note there is also a sizable number of Christians and Muslims in Israel, 
+be sure to consult their calendar as well.
