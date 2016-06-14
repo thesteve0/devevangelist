@@ -22,6 +22,13 @@ If you edit a category below please:
 
 == Christianity
 
+[options="header"]
+|======================
+|Name(s) |Season | Length |Start and End Time | Notes
+|Christmas |Dec 24th-26th |3 days | | Some countries (esp. USA) consider the 24th (Christmas Eve) important, others (UK, Ireland) consider the 26th more important.
+|Easter |Spring| 2 days| Most Catholic countries have Easter Monday off as a holiday, some also have Good Friday.
+|======================
+
 == Islam
 
 == Buddhisim
@@ -44,3 +51,33 @@ this time it would be best to just avoid having people miss the first night.
 If you are planning an event in Israel this list will not work. There are many observant Jews in Israel and you should
 consult a local observant Jew about dates. Please note there is also a sizable number of Christians and Muslims in Israel, 
 be sure to consult their calendar as well.
+
+= Major public holidays to avoid for your events:
+
+Some countries attach a particular importance to certain holidays, which tend to be 3 or 4 day family holidays. If you expect a significant contingent from these countries, you should beware of scheduling the event on the week these holidays take place, or at least allow people to get home the night before the holiday.
+
+== International
+
+[options="header"]
+|======================
+|Name(s) |Season | Length |Start and End Time | Notes
+|May Day |Spring |1 day |May 1st | Internationally recognised as a holiday for the labour movement. For many countries, this day is an important day off.
+|======================
+
+== USA 
+
+[options="header"]
+|======================
+|Name(s) |Season | Length |Start and End Time | Notes
+|Thanksgiving |Winter |4 days |3rd Thursday in November through Sunday | Big family get-together
+|Memorial Day |May| 1 day| Last Monday in May| Americans typically celebrate the start of Summer with family on this 3 day weekend
+|Independence Day|July 4th | 1 day | | Fireworks and barbecue
+|======================
+
+== Ireland
+
+[options="header"]
+|======================
+|Name(s) |Season | Length |Start and End Time | Notes
+|St. Patrick's Day |March 17th |1 days | | Green Guinness
+|======================
