@@ -26,7 +26,7 @@ If you edit a category below please:
 |======================
 |Name(s) |Season | Length |Start and End Time | Notes
 |Christmas |Dec 24th-26th |3 days | | Some countries (esp. USA) consider the 24th (Christmas Eve) important, others (UK, Ireland) consider the 26th more important.
-|Easter |Spring| 2 days| Most Catholic countries have Easter Monday off as a holiday, some also have Good Friday.
+|Easter |Spring| 2 days| | Most Catholic countries have Easter Monday off as a holiday, some also have Good Friday.
 |======================
 
 == Islam
