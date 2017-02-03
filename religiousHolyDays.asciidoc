@@ -31,6 +31,12 @@ If you edit a category below please:
 
 == Islam
 
+[options="header"]
+|======================
+|Name(s) |Season | Length |Start and End Time | Notes
+|Eid al-Fitr|Summer| 1 days| | Fluctuates based on when Ramadan ends
+|======================
+
 == Buddhisim
 
 == Hinduism
