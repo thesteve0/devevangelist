@@ -88,3 +88,12 @@ Some countries attach a particular importance to certain holidays, which tend to
 |Name(s) |Season | Length |Start and End Time | Notes
 |St. Patrick's Day |March 17th |1 days | |
 |======================
+
+== The Netherlands
+
+[options="header"]
+|======================
+|Name(s) |Season | Length |Start and End Time | Notes
+|King's Day |April 27th |1 days | |
+|======================
+
