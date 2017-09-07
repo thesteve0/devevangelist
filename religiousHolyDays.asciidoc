@@ -97,3 +97,10 @@ Some countries attach a particular importance to certain holidays, which tend to
 |King's Day |April 27th |1 days | |
 |======================
 
+== Brazil 
+
+[options="header"]
+|======================
+|Name(s) |Season | Length |Start and End Time | Notes
+|Independence Day |Summer |1 day |September 7th | 
+|======================
