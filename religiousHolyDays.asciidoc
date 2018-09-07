@@ -41,6 +41,21 @@ If you edit a category below please:
 
 == Hinduism
 
+Hinduism has a number of important festivals, and the significance of these varies by the region the person came from. Hinduism follows a lunar calendar. There are very few days when work is prohibited, but quite a few when people will choose to be with family. Some of these days are important regional holidays in India, but limited to cultural celebrations outside that region.
+
+[options="header"]
+|======================
+|Name(s) |Season | Length |Start and End Time | Notes
+| Makar Sankranti/Pongal/Lohri | Usually January 14 | 1 day - 4 days | | This is more important for people from the Southern part of India than the north.
+| Holi | Spring | 1-5 days | | This is the well known 'festival of colours'. This is a day when most people will stay at home in India.
+| Gudi Padva/Ugadi | 1 day | Spring, late March/early April | | This is the new years day for Maharashtrians, Sindhis, Kannadigas and Telugu people.
+| Vishu | 1 day | Spring, usually mid April | | New year in Kerala.
+| Rath Yatra | 1-10 days | June/July | | Important in eastern and north eastern India.
+| Ganesh Chaturthi | 10 days | late August/early September | | Important in Maharashtra
+| Dusshera | 10 days | October | | This is one of the two major festivals which are celebrated pan India. Various individual days are important in different communities, and in certain regions work is disallowed on the 9th day.
+| Diwali/Deepavali | 5 days | October/November || This is one of the two major pan Indian festivals.
+|======================
+
 == Judaism
 
 [options="header"]
