@@ -121,3 +121,15 @@ Some countries attach a particular importance to certain holidays, which tend to
 |Name(s) |Season | Length |Start and End Time | Notes
 |Independence Day |Summer |1 day |September 7th | 
 |======================
+
+== Canada 
+
+[options="header"]
+|======================
+|Name(s) |Season | Length |Start and End Time | Notes
+|Victoria Day/ National Patriots Day|Spring|1 day |3rd Monday in May|1 week before Memorial Day in the US
+|Quebec National Holiday|Summer|1 day |June 24 |Province of Quebec only. French: Fête nationale, a.k.a. St-Jean Baptiste. Unofficial start of the summer season activities. Many combine this with Canada day to take an entire week off
+|Canada Day|Summer|1 day |July 1 |A major Canadian holiday celebrated across the country with fireworks, outdoor music events, street fairs, etc.
+|BC Day/ Heritage Day|Summer|1 day |First Monday in August|Provinces of British Columbia and Alberta only
+|Thankkgiving Day|Fall|1 day |2nd Monday in October|Thanksgiving is a statutory holiday in most of Canada. All federal government,  crown corporation offices and banks are closed. Coincides with Columbus Day in the US
+|======================
