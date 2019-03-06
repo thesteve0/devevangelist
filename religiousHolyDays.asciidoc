@@ -12,6 +12,9 @@ AND
 are like Christmas or Easter. Before you schedule an event during these days think if you would schedule the same event during
 Christmas or Easter. 
 
+== NOTE on Google Calendar
+If you happen to use Google calendar for scheduling, they have an option to add calendars for Christian, Jewish, Muslim, and Eastern Orthodox holidays. They also have holidays for different countries. It's pretty simple to do and can save you a lot of trouble. The list below should help you identify which holidays are most important to pay attention to in the calendar.
+
 If you edit a category below please:
 
 1. Try define most, especially with regards to important geographies. 
