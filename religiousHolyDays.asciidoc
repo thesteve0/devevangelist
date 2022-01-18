@@ -64,12 +64,13 @@ Hinduism has a number of important festivals, and the significance of these vari
 [options="header"]
 |======================
 |Name(s) |Season | Length |Start and End Time | Notes
-|Passover (Pesach) |Spring |8 days |Sundown the night before until Sundown of the 8th day | a lot of dietary restrictions
+|Passover (Pesach) |Spring |8 days |Sundown the night before until Sundown of the 8th day (only the first two days and last two days work is prohibited) | a lot of dietary restrictions
 |Rosh Hashanah |Autumn| 2 days| Sundown the night before until Sundown of the 2nd day| This is the New Year and the beginning of the Week of Awe, ending with Yom Kippur
 |Yom Kippur |Autumn| 1 day| Sundown the night before until Sundown the night after| This is a day of fasting and it usually concludes with a festive meal, so most people won't travel until the next day
+|Sukkot/Simchat Torah |Autumn| 9 day| Sundown the night before until Sundown the night after (only the first two days (Sukkot) and last two days (Simchat Torah) work is prohibited)| 
 |======================
 
-* It is not forbidden to work on Hanukah and it lasts for 8 days. If you want to schedule something during
+* It is not forbidden to work on Hanukah and it lasts for 8 days, though it's a time when many families get together. If you want to schedule something during
 this time it would be best to just avoid having people miss the first night. 
 
 If you are planning an event in Israel this list will not work. There are many observant Jews in Israel and you should
